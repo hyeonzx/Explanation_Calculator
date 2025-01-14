@@ -181,7 +181,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVwB3K6hN_vWvZm14Bsj-93" value="History.&lt;div&gt;DetectExplanationJsonData&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="800" y="880" width="180" height="330" as="geometry" />
+          <mxGeometry x="800" y="880" width="180" height="390" as="geometry" />
         </mxCell>
         <mxCell id="RVwB3K6hN_vWvZm14Bsj-94" value="HistoryId :pk" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="RVwB3K6hN_vWvZm14Bsj-93" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -213,6 +213,12 @@
         <mxCell id="RVwB3K6hN_vWvZm14Bsj-104" value="&lt;u&gt;UpdatedBy&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="RVwB3K6hN_vWvZm14Bsj-93" vertex="1">
           <mxGeometry y="300" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZvhzIcXURMFc8R926jFE-0" value="&lt;u&gt;DeletedAt&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RVwB3K6hN_vWvZm14Bsj-93">
+          <mxGeometry y="330" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvhzIcXURMFc8R926jFE-1" value="&lt;u&gt;DeletedBy&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RVwB3K6hN_vWvZm14Bsj-93">
+          <mxGeometry y="360" width="180" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="RVwB3K6hN_vWvZm14Bsj-113" value="기존" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="860" width="50" height="30" as="geometry" />
         </mxCell>
@@ -226,10 +232,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVwB3K6hN_vWvZm14Bsj-121" value="&lt;div&gt;&lt;div&gt;ex)&lt;/div&gt;&lt;div&gt;JsonId : 200 - CalcId : 100&lt;/div&gt;&lt;div&gt;JsonId : 200 - CalcId : 200&lt;/div&gt;&lt;div&gt;JsonId : 200 - CalcId : 300&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;JsonId : 300 - CalcId : 200&lt;/div&gt;&lt;div&gt;JsonId : 300 - CalcId : 300&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;JsonId : 400 - CalcId : 400&lt;/div&gt;&lt;div&gt;JsonId : 400 - CalcId : 500&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="720" y="1235" width="160" height="160" as="geometry" />
+          <mxGeometry x="890" y="1400" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RVwB3K6hN_vWvZm14Bsj-122" value="&lt;font face=&quot;눈누&quot;&gt;**&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;눈누&quot;&gt;AI 에서 계산기는&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CellId 가 붙는다.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;눈누&quot;&gt;어디해설에서 계산기가 사용되었다의 기록이 아닌&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;눈누&quot;&gt;어디해설에서 계산기를 불러왔는지 기록하기 윈해서.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="950" y="1230" width="310" height="80" as="geometry" />
+          <mxGeometry x="120" y="1470" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DWPxnlm3FlXKutqttewt-0" value="DetectExplanationProcess" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="1300" width="175" height="120" as="geometry" />
