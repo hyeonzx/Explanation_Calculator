@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVwB3K6hN_vWvZm14Bsj-121" value="&lt;div&gt;&lt;div&gt;ex)&lt;/div&gt;&lt;div&gt;JsonId : 200 - CalcId : 100&lt;/div&gt;&lt;div&gt;JsonId : 200 - CalcId : 200&lt;/div&gt;&lt;div&gt;JsonId : 200 - CalcId : 300&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;JsonId : 300 - CalcId : 200&lt;/div&gt;&lt;div&gt;JsonId : 300 - CalcId : 300&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div&gt;JsonId : 400 - CalcId : 400&lt;/div&gt;&lt;div&gt;JsonId : 400 - CalcId : 500&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="890" y="1400" width="160" height="160" as="geometry" />
+          <mxGeometry x="720" y="1550" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RVwB3K6hN_vWvZm14Bsj-122" value="&lt;font face=&quot;눈누&quot;&gt;**&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;눈누&quot;&gt;AI 에서 계산기는&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CellId 가 붙는다.&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;눈누&quot;&gt;어디해설에서 계산기가 사용되었다의 기록이 아닌&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;눈누&quot;&gt;어디해설에서 계산기를 불러왔는지 기록하기 윈해서.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="1470" width="310" height="80" as="geometry" />
