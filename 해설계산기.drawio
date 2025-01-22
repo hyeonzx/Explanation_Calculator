@@ -311,7 +311,7 @@
         <mxCell id="S1yQZVmZXHkKQtSASBkO-12" value="Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
           <mxGeometry y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S1yQZVmZXHkKQtSASBkO-13" value="&lt;u&gt;Active&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
+        <mxCell id="S1yQZVmZXHkKQtSASBkO-13" value="&lt;u&gt;Active&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ?&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
           <mxGeometry y="270" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S1yQZVmZXHkKQtSASBkO-14" value="CreatedAt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
@@ -326,10 +326,10 @@
         <mxCell id="S1yQZVmZXHkKQtSASBkO-17" value="&lt;u&gt;UpdatedBy&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
           <mxGeometry y="390" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S1yQZVmZXHkKQtSASBkO-18" value="&lt;u style=&quot;&quot;&gt;DeletedAt&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
+        <mxCell id="S1yQZVmZXHkKQtSASBkO-18" value="&lt;u style=&quot;&quot;&gt;DeletedAt&amp;nbsp; &amp;nbsp; ?&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
           <mxGeometry y="420" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S1yQZVmZXHkKQtSASBkO-19" value="&lt;u&gt;DeletedBy&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
+        <mxCell id="S1yQZVmZXHkKQtSASBkO-19" value="&lt;u&gt;DeletedBy&amp;nbsp; &amp;nbsp; ?&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="S1yQZVmZXHkKQtSASBkO-0">
           <mxGeometry y="450" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S1yQZVmZXHkKQtSASBkO-4" value="해설 검수 단계&lt;div&gt;O1-Pro 의 Json&lt;/div&gt;&lt;div&gt;DeepSeek 의 Json&lt;/div&gt;&lt;div&gt;각 Json을 저장하고 마지막으로 사용된 계산기&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
